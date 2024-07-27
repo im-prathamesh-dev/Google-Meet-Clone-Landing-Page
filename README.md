@@ -66,7 +66,8 @@ This project is designed for educational and demonstration purposes, showcasing 
 
 ## Screenshots
 
-![Google Meet In-Meeting Page Clone](path-to-screenshot)
+![Screenshot 2024-07-27 094421](https://github.com/user-attachments/assets/988ab27d-3e52-41e7-8394-1989ed49c2fe)
+
 
 ## License
 
