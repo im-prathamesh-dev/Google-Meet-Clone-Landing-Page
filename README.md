@@ -1,7 +1,3 @@
-For a README file focusing on a page that simulates the Google Meet interface during an active meeting, here’s an example:
-
----
-
 # Google Meet In-Meeting Page Clone
 
 This project is a static replica of the Google Meet interface during an active meeting, designed using only HTML and CSS. It includes essential elements like the video grid, meeting controls, and participant list to mimic the appearance and basic layout of a real Google Meet session.
